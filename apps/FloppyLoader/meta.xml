@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1">
+		<name>FloppyLoader</name>
+		<coder>WiiDatabase Team</coder>
+		<version>0.1</version>
+		<release_date>20200401184800</release_date>
+		<short_description>Loads homebrews from a floppy drive</short_description>
+		<long_description>With this application you can load DOLs from a floppy drive!
+
+Currently only the Amiga 1010 and 1011 are supported. You must connect it
+via the sensor bar connector, then insert your floppy with a single file named
+"boot.dol" and let FloppyLoader do the rest!
+* Press "A" to start
+* Press "HOME" to exit
+
+NOTE: This application temporarily patches your IOS so HW_AHBPROT must be disabled
+(it is if your Homebrew Channel runs on the IOS 58).
+
+It also works on the Wii U.</long_description>
+	</app>
